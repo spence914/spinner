@@ -1,4 +1,4 @@
-const animChars = ['|', '/', '-', '\\', '|', '/', '-', '\\'];
+const animChars = ['|', '/', '-', '\\', '|', '/', '-', '\\' , '|'];
 let counter = 0;
 
 for (const char of animChars) {
